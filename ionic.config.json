@@ -1,0 +1,7 @@
+{
+  "name": "expense-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
